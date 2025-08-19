@@ -1,2 +1,2 @@
 # Algo_trading_mm
-Avellaneda-Stoikov Algorithm
+First we will implement the simplest market making algorithm as a benchmark.
