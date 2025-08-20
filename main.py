@@ -29,7 +29,7 @@ for t in range(1, N):
     if ask and q > -q_max:
         q -= 1
         pnl += p_a
-    if t % 100 == 0:  # Print every 100 iterations
+    if t % 100 == 0:
         print(f"Current PnL: {pnl}")
 
 
