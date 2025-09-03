@@ -11,7 +11,8 @@ The Avellaneda-Stoikov algorithm is expected to demonstrate superior risk-adjust
 Results : 
 ![Comparison](images/Comparison_as_benchmark.png)
 
-We did the simulation with 1000 iterations, we see that Avellaneda-Stoikov algorithm has  abetter efficiency in term of inventory management and we get the following results on the mean pnl:
+We conducted the simulation with **1,000 iterations** to ensure statistical significance. The Avellaneda-Stoikov algorithm demonstrated superior efficiency in inventory management and risk-adjusted performance.
+
 Benchmark - Mean PnL: -258.33, Std: 6898.21
 Avellaneda-Stoikov - Mean PnL: 47.52, Std: 774.51
 Improvement: 118.4%
