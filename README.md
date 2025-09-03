@@ -9,4 +9,4 @@ The simulation includes a complete order book system that comprehensively handle
 The Avellaneda-Stoikov algorithm is expected to demonstrate superior risk-adjusted performance characteristics by dynamically optimizing spreads based on real-time inventory levels and market volatility conditions. 
 
 Results : 
-![PnL Comparison](./images/Comparaison as-benchmark.png)
+!(./images/Comparison_as_benchmark.png)
